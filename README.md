@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning Coding
+- 💬 Ask me about Gaming
+- 😄 Pronouns: he/him
 <!--
 **harikrishnan-annappilly/harikrishnan-annappilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
