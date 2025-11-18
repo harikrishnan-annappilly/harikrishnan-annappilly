@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Coding
+- 🔭 I’m currently working on Gen AI Solutions
 - 💬 Ask me about Gaming
 - 😄 Pronouns: he/him
 <!--
